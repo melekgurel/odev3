@@ -1,0 +1,38 @@
+/************* Layout *************/
+
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+
+h1 {
+    color: red
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: #E8AA42
+}
+
+a {
+    color: #7F5283
+}
+
+.center-position {
+    text-align: center;
+}
+
+.fs-16 {
+    font-size: 16px
+}
+
+.fs-20 {
+    font-size: 20px
+}
+
+.list-center {
+    list-style-position: inside;
+}
+
